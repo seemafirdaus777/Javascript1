@@ -7,7 +7,6 @@ console.log("Namaste Duniya"); // Hindi
 
 //2
 console.log('I'm awesome');
-syntax error - argument list 
 console.log("I'm awesome");
 
 //3
