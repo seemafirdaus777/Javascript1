@@ -1,7 +1,7 @@
-Hello World // English
-Hej Varlden //Swedish
-Hello Duniya //Urdu
-Nmaste Duniya // Hindi
+console.log("Hello World"); // English
+console.log("Hej Varlden"); //Swedish
+console.log("Hello Duniya"); //Urdu
+console.log("Namaste Duniya"); // Hindi
 
 //2
 console.log('I'm awesome');
@@ -36,7 +36,7 @@ console.log(z);
  
  
   var myArray = [];
- console.log("the value of my array is:empty");
+ console.log("the value of my array is: empty");
  console.log(myArray);
  var animals = ['bear','monkey','lion'];
  console.log(animals);
