@@ -19,7 +19,7 @@ console.log("the value of x is: 6");
 console.log(x);
 
 //Strings
-var y = "Hello World";
+let y = "Hello World";
 console.log("the value of my string will be: Hello World");
 console.log(y);
 y = "Hi There";
@@ -27,19 +27,19 @@ console.log("the value of my string is: Hi There");
 console.log(y);
 
 
-var z = 7.25;
+let z = 7.25;
 console.log(z);
- var a = Math.round(z);
+ let a = Math.round(z);
  console.log(a);
- var highestValue = Math.max(z,a);
+ let highestValue = Math.max(z,a);
  console.log(highestValue);
  
  
  
-  var myArray = [];
+  let myArray = [];
  console.log("the value of my array is: empty");
  console.log(myArray);
- var animals = ['bear','monkey','lion'];
+ let animals = ['bear','monkey','lion'];
  console.log(animals);
  animals.unshift("baby pig");
  console.log(animals);
@@ -47,19 +47,19 @@ console.log(z);
  
  let myString = "this is a test";
  console.log(myString);
- var length = myString.length;
+ let length = myString.length;
  console.log(myString); 
  
- var myInt = 6;
+ let myInt = 6;
  console.log("the value of my variable int is: "+myInt);
  console.log(typeof myInt);
- var myString = "Hello";
+ let myString = "Hello";
   console.log("the value of my variable string is: " + myString);
   console.log(typeof myString);
-  var myArray = [1,2,3,4];
+  let myArray = [1,2,3,4];
    console.log("the value of my variable array is: " + myArray);
    console.log(typeof myArray);
-   var myFloat = 2.34;
+   let myFloat = 2.34;
     console.log("the value of my variable float is: " + myFloat);
 	console.log(typeof myFloat);
 	if (typeof myInt == typeof myString)
@@ -67,20 +67,20 @@ console.log(z);
 	else console.log("not the same type");
 	
 	
-	var x = 7;
+	let x = 7;
 	x = x % 3
 	console.log(x);
 	
-	var x = 8;
+	let x = 8;
 	x = x % 2
 	console.log(x);
 	
-	var x = 9;
+	let x = 9;
 	x = x % 4
 	console.log(x);
 	
 	//Storing multiple arrays
-	var myArray = ['John',4,'firstName',cat];
+	let myArray = ['John',4,'firstName',cat];
 	console.log(myArray);
 	
 	
