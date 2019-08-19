@@ -2,7 +2,7 @@
 let myString = "hello,this,is,a,difficult,to,read,sentence";
 console.log(myString);
 let myString = string.length;
-myString = myString.replace("," " ")
+myString = myString.replace(/,/g, " ")
 
 
 //2
