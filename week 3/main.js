@@ -89,10 +89,9 @@ console.log(vehicle("blue", 1, 5));
 
 //7
 let vehicles = [motorbike,caravan,bike,car];
-console.log(list);
 //8
-let myList = list[2];
-console.log(myList);
+console.log(vehicles[2]);
+
 
 //9
 
