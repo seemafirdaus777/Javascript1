@@ -41,9 +41,13 @@ console.log(colorCar("red"));
 let person = {
 	name: "John";
 	age: 34;
-	eye-color: "blue";
-	
+	eye-color: "blue"
+};
+function myInfo() {
+	console.log(object.values(myObject));
 }
+myInfo();	
+
 
 //4
 function vehicleType(color,code)
